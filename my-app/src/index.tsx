@@ -1,6 +1,7 @@
 import { serveStatic } from '@hono/node-server/serve-static'
 import { Button, Frog, TextInput } from 'frog'
 import { devtools } from 'frog/dev'
+import { Box, Heading, Text, VStack } from './ui.js'
 // import { neynar } from 'frog/hubs'
 
 export const app = new Frog({
@@ -32,6 +33,19 @@ app.frame('/', (c) => {
           width: '100%',
         }}
       >
+        <Box
+          grow
+          alignHorizontal="center"
+          backgroundColor="background"
+          padding="32"
+        >
+          <VStack gap="4">
+            <Heading>Sample FrogUI 🐸</Heading>
+            <Text color="text200" size="20">
+              Build consistent frame experiences
+            </Text>
+          </VStack>
+        </Box>
         <div
           style={{
             color: 'white',
