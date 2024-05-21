@@ -40,3 +40,4 @@ cd my-app
 8. [GitHub - farcaster-frames-template](https://github.com/nekofar/farcaster-frames-template)
 9. [GitHub - farcaster-frame](https://github.com/Crossmint/farcaster-frame/tree/main)
 10. [GitHub - base-mint-with-warps](https://github.com/horsefacts/base-mint-with-warps)
+11. [Open Graph（オープングラフ）メタタグとは？](https://ahrefs.jp/blog/content-marketing/open-graph-meta-tags/#:~:text=Open%20Graph%E3%83%A1%E3%82%BF%E3%82%BF%E3%82%B0%E3%81%AF%E3%80%81%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB,%E3%81%A7%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
