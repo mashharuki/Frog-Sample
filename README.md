@@ -41,3 +41,8 @@ cd my-app
 9. [GitHub - farcaster-frame](https://github.com/Crossmint/farcaster-frame/tree/main)
 10. [GitHub - base-mint-with-warps](https://github.com/horsefacts/base-mint-with-warps)
 11. [Open Graph（オープングラフ）メタタグとは？](https://ahrefs.jp/blog/content-marketing/open-graph-meta-tags/#:~:text=Open%20Graph%E3%83%A1%E3%82%BF%E3%82%BF%E3%82%B0%E3%81%AF%E3%80%81%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB,%E3%81%A7%E3%82%82%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
+12. [How to Build a Farcaster Frame that Mints NFTs](https://www.youtube.com/watch?v=5VVOMolm-TA)
+13. [Pinata Farcaster API](https://docs.pinata.cloud/farcaster/farcaster-api/getting-started)
+14. [How To Build A Farcaster Frame That Mints NFTs](https://www.pinata.cloud/blog/how-to-build-a-farcaster-frame-that-mints-nfts)
+15. [GitHub - frame-minting-tutorial](https://github.com/PinataCloud/frame-minting-tutorial)
+16. [GitHub - pinata-fdk](https://github.com/PinataCloud/pinata-fdk)
