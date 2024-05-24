@@ -28,6 +28,14 @@ cd my-app
 
   http://localhost:5173/dev にアクセスする
 
+## Frame の開発方法
+
+1. スマコン開発＆デプロイ
+2. Next.js でフロントエンド開発
+3. Vercel にデプロイ
+4. warpcast の Validation tool でチェック
+5. frames までの URL を貼り付けて cast して OK!!
+
 ### 参考文献
 
 1. [frog 開発者向けサイト](https://frog.fm/getting-started)
@@ -47,3 +55,5 @@ cd my-app
 15. [GitHub - frame-minting-tutorial](https://github.com/PinataCloud/frame-minting-tutorial)
 16. [GitHub - pinata-fdk](https://github.com/PinataCloud/pinata-fdk)
 17. [Warpcast - Validation Tool](https://warpcast.com/~/developers/frames)
+18. [Validation Tool で試したサンプル frame](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffrog-sample-drab.vercel.app%2Fframe)
+19. [pinataTeam の frames](https://github.com/PinataCloud/pinataframes)
