@@ -46,3 +46,4 @@ cd my-app
 14. [How To Build A Farcaster Frame That Mints NFTs](https://www.pinata.cloud/blog/how-to-build-a-farcaster-frame-that-mints-nfts)
 15. [GitHub - frame-minting-tutorial](https://github.com/PinataCloud/frame-minting-tutorial)
 16. [GitHub - pinata-fdk](https://github.com/PinataCloud/pinata-fdk)
+17. [Warpcast - Validation Tool](https://warpcast.com/~/developers/frames)
