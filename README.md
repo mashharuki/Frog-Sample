@@ -57,3 +57,5 @@ cd my-app
 17. [Warpcast - Validation Tool](https://warpcast.com/~/developers/frames)
 18. [Validation Tool で試したサンプル frame](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffrog-sample-drab.vercel.app%2Fframe)
 19. [pinataTeam の frames](https://github.com/PinataCloud/pinataframes)
+20. [framesjs のデバッカーアプリ](https://debugger.framesjs.org/?url=https%3A%2F%2Fframesjs.org)
+21. [GitHub - awesome-frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file)
