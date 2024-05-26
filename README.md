@@ -36,6 +36,10 @@ cd my-app
 4. warpcast の Validation tool でチェック
 5. frames までの URL を貼り付けて cast して OK!!
 
+## prive demo の URL
+
+[]()
+
 ### 参考文献
 
 1. [frog 開発者向けサイト](https://frog.fm/getting-started)
