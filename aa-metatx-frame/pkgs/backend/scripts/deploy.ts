@@ -9,13 +9,14 @@ async function main() {
   const NAEM = "SampleNFT";
   const SYMBOL = "SNFT";
   const BASETOKENURI = "https://openfort.xyz/docs";
-  const TRUSTEDFORWARDER = "0xc82BbE41f2cF04e3a8efA18F7032BDD7f6d98a81";
+
+  const forwarder = await ethers.deployContract("Forwarder", ["Forwarder"]);
 
   const sampleNft = await ethers.deployContract("SampleNFT", [
     NAEM,
     SYMBOL,
     BASETOKENURI,
-    TRUSTEDFORWARDER,
+    forwarder.address,
   ]);
 
   await sampleNft.deployed();
@@ -34,7 +35,7 @@ async function main() {
     await run(`verify:verify`, {
       contract: "contracts/SampleNFT.sol:SampleNFT",
       address: sampleNft.address,
-      constructorArguments: [NAEM, SYMBOL, BASETOKENURI, TRUSTEDFORWARDER],
+      constructorArguments: [NAEM, SYMBOL, BASETOKENURI, forwarder.address],
     });
   }
 
