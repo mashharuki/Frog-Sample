@@ -6,6 +6,7 @@ import "@openzeppelin/contracts/metatx/ERC2771Context.sol";
 
 contract SampleNFT is ERC721, ERC2771Context {
   string private _baseTokenURI;
+  uint256 private _nextTokenId;
 
   // Adding a constructor compatible with ERC721 and ERC2771Context
   constructor(
@@ -50,9 +51,9 @@ contract SampleNFT is ERC721, ERC2771Context {
   }
 
   // Basic minting function
-  function mint(address to, uint256 tokenId) public {
-    // Simple minting logic; in a real contract, you would include access controls
-    _mint(to, tokenId);
+  function mint(address to) public {
+    uint256 tokenId = _nextTokenId++;
+    _safeMint(to, tokenId);
   }
 
   // Override base URI
