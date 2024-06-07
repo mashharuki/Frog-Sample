@@ -63,3 +63,4 @@ cd my-app
 19. [pinataTeam の frames](https://github.com/PinataCloud/pinataframes)
 20. [framesjs のデバッカーアプリ](https://debugger.framesjs.org/?url=https%3A%2F%2Fframesjs.org)
 21. [GitHub - awesome-frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file)
+22. [pinataTema の frames Demo](https://www.pinatadrops.com/)
